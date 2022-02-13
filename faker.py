@@ -1,10 +1,3 @@
-'''
-Created on 
-Course work: 
-@author: Ishita
-Source:
-    
-'''
 
 from faker import Faker
  
