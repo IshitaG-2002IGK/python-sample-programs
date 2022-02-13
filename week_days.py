@@ -20,7 +20,7 @@ def weekday(x):
 
 def startpy():
 
-    user_input = int(input("Enter a number for displaying the week"))
+    user_input = int(input("Enter a number for displaying the week!"))
     week = weekday(user_input)
     print(week)   
 
