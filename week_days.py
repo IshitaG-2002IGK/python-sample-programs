@@ -1,11 +1,3 @@
-'''
-Created on 
-Course work: 
-@author: Ishita
-Source:
-     
-     
-'''
 
 def weekday(x):
     if x == 1:
