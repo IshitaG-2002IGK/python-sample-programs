@@ -1,9 +1,3 @@
-'''
-Created on 
-Course work: 
-@author: Ishita
-Source:
-'''
 
 def eliminate_spaces(my_string):
 
